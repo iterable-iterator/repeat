@@ -4,12 +4,15 @@
 Item repetition for JavaScript.
 See [docs](https://iterable-iterator.github.io/repeat/index.html).
 
-> :building_construction: Caveat emptor! This is work in progress. Code may be
-> working. Documentation may be present. Coherence may be. Maybe.
-
 > :warning: Depending on your environment, the code may require
 > `regeneratorRuntime` to be defined, for instance by importing
 > [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+
+```js
+import {repeat, nrepeat} from '@iterable-iterator/repeat';
+repeat("A"); // A A A ...
+nrepeat("A", 3); // A A A
+```
 
 [![License](https://img.shields.io/github/license/iterable-iterator/repeat.svg)](https://raw.githubusercontent.com/iterable-iterator/repeat/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@iterable-iterator/repeat.svg)](https://www.npmjs.org/package/@iterable-iterator/repeat)

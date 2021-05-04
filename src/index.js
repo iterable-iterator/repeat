@@ -1,2 +1,2 @@
-const answer = 42;
-export default answer;
+export {default as nrepeat} from './nrepeat.js';
+export {default as repeat} from './repeat.js';
