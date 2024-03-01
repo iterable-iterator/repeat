@@ -2,6 +2,7 @@ import test from 'ava';
 
 import {list} from '@iterable-iterator/list';
 import {head} from '@iterable-iterator/slice';
+
 import {repeat} from '#module';
 
 test('repeat', (t) => {

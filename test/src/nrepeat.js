@@ -1,6 +1,7 @@
 import test from 'ava';
 
 import {list} from '@iterable-iterator/list';
+
 import {nrepeat} from '#module';
 
 test('nrepeat', (t) => {
