@@ -1,7 +1,7 @@
 import test from 'ava';
 
 import {list} from '@iterable-iterator/list';
-import {nrepeat} from '../../src/index.js';
+import {nrepeat} from '#module';
 
 test('nrepeat', (t) => {
 	const x = function (item, times, expected) {

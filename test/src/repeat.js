@@ -2,7 +2,7 @@ import test from 'ava';
 
 import {list} from '@iterable-iterator/list';
 import {head} from '@iterable-iterator/slice';
-import {repeat} from '../../src/index.js';
+import {repeat} from '#module';
 
 test('repeat', (t) => {
 	const x = function (item, times, expected) {
