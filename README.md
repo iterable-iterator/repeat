@@ -16,7 +16,7 @@ nrepeat("A", 3); // A A A
 
 [![License](https://img.shields.io/github/license/iterable-iterator/repeat.svg)](https://raw.githubusercontent.com/iterable-iterator/repeat/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@iterable-iterator/repeat.svg)](https://www.npmjs.org/package/@iterable-iterator/repeat)
-[![Tests](https://img.shields.io/github/workflow/status/iterable-iterator/repeat/ci:test?event=push&label=tests)](https://github.com/iterable-iterator/repeat/actions/workflows/ci:test.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/workflow/status/iterable-iterator/repeat/ci:cover?event=push&label=tests)](https://github.com/iterable-iterator/repeat/actions/workflows/ci:cover.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/iterable-iterator/repeat.svg)](https://github.com/iterable-iterator/repeat/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/iterable-iterator/repeat.svg)](https://github.com/iterable-iterator/repeat/issues)
 [![Downloads](https://img.shields.io/npm/dm/@iterable-iterator/repeat.svg)](https://www.npmjs.org/package/@iterable-iterator/repeat)
